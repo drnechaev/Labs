@@ -1,0 +1,2 @@
+# Labs
+Лабораторки для NewProLab
